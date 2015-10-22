@@ -1,0 +1,37 @@
+{
+  "author": "Liesa Maerevoet",
+  "github": "Rosaplankton",
+  "",
+  "contact":"m.liesa@hotmail.com",
+  "repos": [
+    "triangle-algorithm",
+    "findus",
+    "selective-candy-machine"
+  ],
+  "algorithm": {
+    "title": "triangle stripes",
+    "image": "io_1_visual.png",
+    "thumb": "io_1_visual-thumb.png",
+    "repo-url": "https://github.com/Rosaplankton/triangle-algorithm",
+    "abstract": "beschreibung des Projektes."
+  },
+  "slime": {
+    "title": "findus",
+    "image": "io_2_visual.png",
+    "thumb": "io_2_visual-thumb.png",
+    "repo-url": "https://github.com/Rosaplankton/findus",
+    "abstract": "findus, a hungry slime mold"
+  },
+  "motor-poster": {
+    "title": "selective candy machine",
+    "image": "io-candy.png",
+    "thumb": "io-candy-thumb.png",
+    "repo-url": "https://github.com/Rosaplankton/selective-candy-machine",
+    "video-prototyp-url": "https://vimeo.com/130937774",
+    "video-url": "https://vimeo.com/140973301",
+    "abstract": "Candy for the curious tiny people."
+  }
+}
+
+500x500
+64x64
